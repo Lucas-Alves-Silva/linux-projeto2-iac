@@ -1,5 +1,5 @@
-# Projeto 2 - IaC - Bootcamp de Linux
-Script para provisionamento de um servidor Apache. (Projeto integrante do curso de Linux da DIO)
+# Projeto 2 - IaC
+Script para provisionamento de um servidor Apache. (Projeto integrante do Bootcamp de Linux da DIO)
 
 Este script tem a função de criar um ambiente de servidor web Apache de maneira automatizada e pronto para uso.
 
